@@ -2,14 +2,14 @@
 
 ## 🌍 Overview
 
-This is a professional, comprehensive website for the global Data to Policy (D2P) program, part of Bloomberg Philanthropies' Data for Health Initiative. The website showcases D2P training programs, country implementations, resources, and global impact.
+This is a website for the Data to Policy (D2P) program, part of Bloomberg Philanthropies' Data for Health Initiative. The website showcases D2P training programs, country implementations, resources, and global impact.
 
 ## 📦 Package Contents
 
 ### Core Files Included:
-- **d2p-index.html** - Main home page with program overview and statistics
-- **d2p-about.html** - Comprehensive "About D2P" page with methodology and goals
-- **d2p-styles.css** - Complete stylesheet (580 lines) with responsive design
+- **index.html** - Main home page with program overview and statistics
+- **about.html** - Comprehensive "About D2P" page with methodology and goals
+- **styles.css** - Complete stylesheet (580 lines) with responsive design
 - **D2P.jpg** - Partner organization logos (Bloomberg, CDC, Vital Strategies, etc.)
 - **D2P-WEBSITE-STRUCTURE.md** - Complete website structure documentation
 
